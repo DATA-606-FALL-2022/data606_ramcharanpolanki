@@ -8,14 +8,14 @@
 
 Please find the 'Data' folder for backend UI code and docs.
 
-Final Project Proposal :  https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/proposal_final.md
+Final Project Proposal : https://github.com/DATA-606-FALL-2022/data606_ramcharanpolanki/blob/main/proposal_final.md 
 
-Initial EDA: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Initial_EDA.ipynb
+Initial EDA: https://github.com/DATA-606-FALL-2022/data606_ramcharanpolanki/blob/main/Initial_EDA.ipynb
 
-Project Code : https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/FinalProjectCode.ipynb
+Project Code : https://github.com/DATA-606-FALL-2022/data606_ramcharanpolanki/blob/main/FinalProjectCode.ipynb
 
-Link to Powerpoint Presentation of Project: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Synthetic%20Face%20Generation%20-%20Final%20Presentation.pptx
+Link to Powerpoint Presentation of Project: https://github.com/DATA-606-FALL-2022/data606_ramcharanpolanki/blob/main/Synthetic%20Face%20Generation%20-%20Final%20Presentation.pptx
 
-Final Project Report: https://github.com/DATA-606-FALL-2022/data606_koushik/blob/main/Final%20Project%20Report.md
+Final Project Report: https://github.com/DATA-606-FALL-2022/data606_ramcharanpolanki/blob/main/Final%20Project%20Report.md
 
 Link to the Youtube video of Final Project Presentation: https://youtu.be/SE5UNEiwsPY
